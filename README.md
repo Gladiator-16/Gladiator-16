@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on websites and Python programs
 - 🤔 I’m looking for help with ntg right now
 - 💬 Ask me about Hacking....... ig
-- 📫 How to reach me: supdudes1606@gmail.com
+- 📫 How to reach me: i am finding a way 
 - 😄 Pronouns: crazy (like 100%)
 - ⚡ Fun fact: i play the drums🥁🥁
 
@@ -29,7 +29,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://vrezn0v.github.io/)
+[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://Gladiator-16.github.io/)
 [<img align="left" alt="AK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codepen.svg" />](https://codepen.io/gladiator-16)
 [<img align="left" alt="Fsociety" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/mynamejeff_16/)
 [<img align="left" alt="Gladiator" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/youtube.svg" />](https://www.youtube.com/channel/UC1Kv_EkQ3a3UftllKCBjG0A?view_as=subscriber)
