@@ -29,7 +29,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://Gladiator-16.github.io/)
+[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://gladiator-16.netlify.app/)
 [<img align="left" alt="AK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codepen.svg" />](https://codepen.io/gladiator-16)
 [<img align="left" alt="Fsociety" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/mynamejeff_16/)
 [<img align="left" alt="Gladiator" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/youtube.svg" />](https://www.youtube.com/channel/UC1Kv_EkQ3a3UftllKCBjG0A?view_as=subscriber)
