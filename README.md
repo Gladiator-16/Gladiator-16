@@ -81,7 +81,7 @@ I am also a Hardware teach enthusiast and maintainer. I learned a lot from the o
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/Gladiator)
+&nbsp; <br> [![Spotify](https://novatorem-gladiator-16.vercel.app//api/spotify)](https://open.spotify.com/user/Gladiator)
 
   </td>
   <td width="50%">
