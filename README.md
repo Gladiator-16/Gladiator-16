@@ -81,8 +81,7 @@ I am also a Hardware teach enthusiast and maintainer. I learned a lot from the o
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://novatorem-gladiator-16.vercel.app//api/spotify)](https://open.spotify.com/user/Gladiator)
-
+&nbsp; <br> <iframe src="https://gifer.com/embed/YdBO" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe>
   </td>
   <td width="50%">
 
