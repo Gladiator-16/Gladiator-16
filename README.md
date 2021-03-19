@@ -32,7 +32,7 @@ I am also a Hardware teach enthusiast and maintainer. I learned a lot from the o
 </p>
 
 <p align="center">
-  <img  align="center"  src="https://github-profile-trophy.vercel.app/?username=Gladiator-16&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img  align="center"  src="https://github-profile-trophy.vercel.app/?username=Gladiator-16&column=6&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&title=Followers" />
 </p>
 
 
@@ -93,3 +93,7 @@ I am also a Hardware teach enthusiast and maintainer. I learned a lot from the o
 </p>
   </td>
   </table>
+
+---
+
+![Anurag's GitHub stats](https://github-readme-gladiator-16.vercel.app//api?username=Gladiator-16&show_icons=true&theme=radical)
