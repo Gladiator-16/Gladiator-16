@@ -1,36 +1,36 @@
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![](https://visitor-badge.glitch.me/badge?page_id=Gladiator-16.Gladiator-16)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://gladiator-16.netlify.app/)
 
+<p align="center">
+<br/>
+<a href="https://twitter.com/spida_rwin">
+  <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+</a>	&nbsp;	&nbsp;	&nbsp;
+<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
+  <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+</a>	&nbsp;	&nbsp;	&nbsp;
+<a href="https://www.facebook.com/erwin.lejeune">
+  <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+</a>	&nbsp;	&nbsp;	&nbsp;
+<a href="https://www.instagram.com/spid_erwin">
+  <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+</a>	&nbsp;	&nbsp;	&nbsp;
+<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
+  <img alt="guilyx's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+</a>
+</p>
 
-
-**YO wassup i am Gladiator-16** 
-
-
-- 🔭 I’m currently working on Website, Simple softwares etc...
-- 🌱 I’m currently learning Backend, Hacking
-- 👯 I’m looking to collaborate on websites and Python programs
-- 🤔 I’m looking for help with ntg right now
-- 💬 Ask me about Hacking....... ig
-- 📫 How to reach me: i am finding a way 
-- 😄 Pronouns: crazy (like 100%)
-- ⚡ Fun fact: i play the drums🥁🥁
-
-
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/atom.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 
-### Connect with me:
+Hi, I'm [Gladator](http://gladiator-16.netlify.app/), a passionate self-taught Front-end web developer and a freelance from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://gladiator-16.netlify.app/)
-[<img align="left" alt="AK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codepen.svg" />](https://codepen.io/gladiator-16)
-[<img align="left" alt="Fsociety" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/mynamejeff_16/)
-[<img align="left" alt="Gladiator" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/youtube.svg" />](https://www.youtube.com/channel/UC1Kv_EkQ3a3UftllKCBjG0A?view_as=subscriber)
-<br />
+I am also a Hardware teach enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
+<p align="center">
+<img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
+</p>
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Gladiator-16&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
