@@ -94,7 +94,7 @@ I am also a Hardware teach enthusiast and maintainer. I learned a lot from the o
   </table>
 
 ---
-### 📈 My GitHub Stats
+📈 My GitHub Stats
 <br />
 ![Anurag's GitHub stats](https://github-readme-gladiator-16.vercel.app//api?username=Gladiator-16&show_icons=true&theme=radical)
 <br/>
