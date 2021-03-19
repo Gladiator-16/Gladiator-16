@@ -77,11 +77,11 @@ I am also a Hardware teach enthusiast and maintainer. I learned a lot from the o
 
 ---
 <br/>
-<table width="100%"> 
+<table width="100%" align="center"> 
   <tr>
   <td width="50%">
       
-&nbsp; <br> <iframe src="https://gifer.com/embed/YdBO" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe>
+&nbsp; <br> <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" />
   </td>
   <td width="50%">
 
@@ -94,5 +94,9 @@ I am also a Hardware teach enthusiast and maintainer. I learned a lot from the o
   </table>
 
 ---
-
+### 📈 My GitHub Stats
+<br />
 ![Anurag's GitHub stats](https://github-readme-gladiator-16.vercel.app//api?username=Gladiator-16&show_icons=true&theme=radical)
+<br/>
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gladiator-16&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
