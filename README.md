@@ -94,9 +94,20 @@ I am also a Hardware teach enthusiast and maintainer. I learned a lot from the o
   </table>
 
 ---
-📈 My GitHub Stats
-<br />
-![Anurag's GitHub stats](https://github-readme-gladiator-16.vercel.app//api?username=Gladiator-16&show_icons=true&theme=radical)
+### 📈 My GitHub Stats
+
 <br/>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gladiator-16&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gladiator-16&show_icons=true&theme=radical" alt="Gladiator" />
+<br/>
+<br/>
+<a href="https://github.com/Gladiator-16"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gladiator-16&layout=compact&text_color=daf7dc&bg_color=151515" alt="Gladiator"></a>
+  <br><br><br>
+  ⏳ **Year Progress** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 21.10 % as on ⏰ 19-3-2021.
+  <br><br>
+  If you like what I do, maybe consider buying me a coffee/tea 👉👈
+
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" align="center"></a>
+
+  </p>
