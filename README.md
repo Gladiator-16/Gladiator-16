@@ -72,5 +72,5 @@ I am also a Hardware teach enthusiast and maintainer. I learned a lot from the o
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="	https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 </div>
