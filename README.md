@@ -5,19 +5,19 @@
 
 <p align="center">
 <br/>
-<a href="https://twitter.com/spida_rwin">
-  <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+<a href="https://discord.bio/p/gladiator">
+  <img alt="guilyx | Twitter" width="35px" src="https://svgshare.com/i/VEM.svg" />
 </a>	&nbsp;	&nbsp;	&nbsp;
-<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
-  <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+<a href="https://codepen.io/gladiator-16">
+  <img alt="guilyx's LinkdeIN" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/1626/1626319.svg?token=exp=1616211736~hmac=5e2b0d594bcfea2abae488a0e6cccac2" />
 </a>	&nbsp;	&nbsp;	&nbsp;
-<a href="https://www.facebook.com/erwin.lejeune">
-  <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+<a href="https://dribbble.com/Gladiator16">
+  <img alt="guilyx's Facebook" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/1532/1532541.svg?token=exp=1616211933~hmac=5f68d8ba9f034908bd6627cd8208161d" />
 </a>	&nbsp;	&nbsp;	&nbsp;
-<a href="https://www.instagram.com/spid_erwin">
+<a href="https://www.instagram.com/__arnav.16/">
   <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>	&nbsp;	&nbsp;	&nbsp;
-<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
+<a href="https://open.spotify.com/user/64baut5hxhb9k224mkbh19pwz">
   <img alt="guilyx's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
 </p>
@@ -110,7 +110,7 @@ I am also a Hardware teach enthusiast and maintainer. I learned a lot from the o
   </p>
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/dq01aOE" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
+<a href="https://www.buymeacoffee.com/Arnavk." target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 </p>
 
 ---
