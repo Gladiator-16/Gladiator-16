@@ -33,7 +33,7 @@ I am also a Hardware teach enthusiast and maintainer. I learned a lot from the o
 </p>
 
 <p align="center">
-  <img  align="center"  src="https://github-profile-trophy.vercel.app/?username=Gladiator-16&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
+  <img  align="center"  src="https://github-profile-trophy.vercel.app/?username=Gladiator-16&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=gruvbox" />
 </p>
 
 
@@ -52,7 +52,7 @@ I am also a Hardware teach enthusiast and maintainer. I learned a lot from the o
 
 ### **Having fun with these stack 👨🏽‍💻**
 
-<br/>
+<br/><br/>
 <div align="center">
   
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -75,6 +75,7 @@ I am also a Hardware teach enthusiast and maintainer. I learned a lot from the o
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 </div>
+<br/>
 
 ---
 <br/>
