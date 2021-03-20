@@ -1,6 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![](https://visitor-badge.glitch.me/badge?page_id=Gladiator-16.Gladiator-16)
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://gladiator-16.netlify.app/)
+![Profile views](https://gpvc.arturio.dev/Naereen)
+[![Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/bevacqua/awesome-badges)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
 <p align="center">
 <br/>
@@ -37,15 +38,15 @@ I am also a Hardware teach enthusiast and maintainer. I learned a lot from the o
 
 
 ### 🤵 About Me:
-- 🏦 I'm a Software Engineer working for a health tech startup in India 
+- 🏦 I'm a Front-end dev and Hardware tech enthusiast in India 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles on [hashnode](https://apoorvtyagi.tech/) & [dev.to](https://dev.to/apoorvtyagi)
-- 🌱 I also run a tech weekly newsletter : [The Trojan - Wednesday Wisdom ⚡](https://newsletter.apoorvtyagi.tech/)
-- 💻 I use daily **.java**, **.py**, **.sql**
-- 📖 I am currently reading [zero to one by Peter Thiel](https://amzn.to/3dTQa0k)
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
+- 📝 I regulary write technical code on [Codepen](https://codepen.io/gladiator-16) & [Github](https://githib.com/Gladaitor-16)
+- 🌱 I also read  tech weekly articles : [Medium](https://medium.com/)
+- 💻 I use daily **.html**, **.py**, **.php**
+- 📖 I am currently reading [Hacker Playbook 2](https://www.amazon.in/Hacker-Playbook-Practical-Penetration-Testing/dp/1512214566)
+- 💬 Talk to me about Hacking, python (both of these are not any kind of insect or animals), Hardware tech & Music
+- 👯 We can connect to play some games of Space Invaders 👾
+- ⚡ Fun fact: I am also a Drummer 🥁
 
 <br />
 
@@ -85,10 +86,10 @@ I am also a Hardware teach enthusiast and maintainer. I learned a lot from the o
   </td>
   <td width="50%">
 
-<br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
-  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
-  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/5ck1H)
-  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
+<br><p align="center"><b>GIT Commit,  GIT Push,s GIT Out<b/><br><br>
+  [![Instagram](https://img.shields.io/badge/instagram-in-369?style=flat-square&logo=instagram&logoColor=white&color=blue)](https://www.instagram.com/__arnav.16/)
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/2X7y8a6U)
+  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://gladiator-16.netlify.app/)
 </p>
   </td>
   </table>
@@ -103,11 +104,14 @@ I am also a Hardware teach enthusiast and maintainer. I learned a lot from the o
 <br/>
 <br/>
 <a href="https://github.com/Gladiator-16"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gladiator-16&layout=compact&text_color=daf7dc&bg_color=151515" alt="Gladiator"></a>
-  <br><br><br>
-  ⏳ **Year Progress** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 21.10 % as on ⏰ 19-3-2021.
-  <br><br>
-  If you like what I do, maybe consider buying me a coffee/tea 👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" align="center"></a>
-
+ <br><br>
+ 
   </p>
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/dq01aOE" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
+</p>
+
+---
+
+<h5 align="center" style="font:Berlin Sans FB"><b><i>“Programmer: A machine that turns coffee into code.”<i/><b/><h5/>
