@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![Profile views](https://gpvc.arturio.dev/Naereen)
+![Profile views](https://gpvc.arturio.dev/Gladiator-16)
 [![Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/bevacqua/awesome-badges)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
