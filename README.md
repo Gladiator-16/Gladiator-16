@@ -9,7 +9,7 @@
   <img alt="Gladiator | Discord" width="35px" src="https://svgshare.com/i/VEM.svg" />
 </a>	&nbsp;	&nbsp;	&nbsp;
 <a href="https://codepen.io/gladiator-16">
-  <img alt="Gladiator's codepen" width="35px" src="https://img.icons8.com/ios/50/000000/codepen.png" />
+  <img alt="Gladiator's codepen" width="35px" src="https://img.icons8.com/ios-filled/50/ffffff/codepen.png" />
 </a>	&nbsp;	&nbsp;	&nbsp;
 <a href="https://dribbble.com/Gladiator16">
   <img alt="Gladiator's dribbble" width="35px" src="https://img.icons8.com/dusk/64/000000/dribbble.png" />
