@@ -12,7 +12,7 @@
   <img alt="guilyx's LinkdeIN" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/1626/1626319.svg?token=exp=1616211736~hmac=5e2b0d594bcfea2abae488a0e6cccac2" />
 </a>	&nbsp;	&nbsp;	&nbsp;
 <a href="https://dribbble.com/Gladiator16">
-  <img alt="guilyx's Facebook" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/1532/1532541.svg?token=exp=1616211933~hmac=5f68d8ba9f034908bd6627cd8208161d" />
+  <img alt="guilyx's Facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codepen.svg" />
 </a>	&nbsp;	&nbsp;	&nbsp;
 <a href="https://www.instagram.com/__arnav.16/">
   <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
