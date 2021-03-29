@@ -6,19 +6,19 @@
 <p align="center">
 <br/>
 <a href="https://discord.bio/p/gladiator">
-  <img alt="guilyx | Twitter" width="35px" src="https://svgshare.com/i/VEM.svg" />
+  <img alt="Gladiator | Discord" width="35px" src="https://svgshare.com/i/VEM.svg" />
 </a>	&nbsp;	&nbsp;	&nbsp;
 <a href="https://codepen.io/gladiator-16">
-  <img alt="guilyx's LinkdeIN" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/1626/1626319.svg?token=exp=1616211736~hmac=5e2b0d594bcfea2abae488a0e6cccac2" />
+  <img alt="Gladiator's codepen" width="35px" src="https://img.icons8.com/ios/50/000000/codepen.png" />
 </a>	&nbsp;	&nbsp;	&nbsp;
 <a href="https://dribbble.com/Gladiator16">
-  <img alt="guilyx's Facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codepen.svg" />
+  <img alt="Gladiator's dribbble" width="35px" src="https://img.icons8.com/dusk/64/000000/dribbble.png" />
 </a>	&nbsp;	&nbsp;	&nbsp;
 <a href="https://www.instagram.com/__arnav.16/">
-  <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img alt="Gladiator's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>	&nbsp;	&nbsp;	&nbsp;
 <a href="https://open.spotify.com/user/64baut5hxhb9k224mkbh19pwz">
-  <img alt="guilyx's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+  <img alt="Gladiator's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
 </p>
 
