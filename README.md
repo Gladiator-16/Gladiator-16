@@ -90,7 +90,7 @@ I am also a Hardware teach enthusiast and maintainer. I learned a lot from the o
 <br><p align="center"><b>GIT Commit,  GIT Push,s GIT Out<b/><br><br>
   [![Instagram](https://img.shields.io/badge/instagram-in-369?style=flat-square&logo=instagram&logoColor=white&color=blue)](https://www.instagram.com/__arnav.16/)
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/2X7y8a6U)
-  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://gladiator-16.netlify.app/)
+  [![Website shields.io](https://img.shields.io/website-up-down-green-red/https/laborecke.de.svg?label=Website%20status)](http://fdsfdsgdf.netlify.app/)
 </p>
   </td>
   </table>
