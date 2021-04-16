@@ -40,7 +40,7 @@ I am also a Hardware teach enthusiast and maintainer. I learned a lot from the o
 ### 🤵 About Me:
 - 🏦 I'm a Front-end dev and Hardware tech enthusiast in India 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical code on [Codepen](https://codepen.io/gladiator-16) & [Github](https://githib.com/Gladaitor-16)
+- 📝 I regulary write technical code on  [Medium](https://medium.com/) & [Github](https://githib.com/Gladaitor-16)
 - 🌱 I also read  tech weekly articles : [Medium](https://medium.com/)
 - 💻 I use daily **.html**, **.py**, **.php**
 - 📖 I am currently reading [Hacker Playbook 2](https://www.amazon.in/Hacker-Playbook-Practical-Penetration-Testing/dp/1512214566)
